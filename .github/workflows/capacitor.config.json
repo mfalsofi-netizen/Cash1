@@ -1,0 +1,8 @@
+{
+  "appId": "com.cashierv1.app",
+  "appName": "Cashier-V1",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
