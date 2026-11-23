@@ -1,8 +1,0 @@
-{
-  "appId": "com.cashierv1.app",
-  "appName": "كاشير-V1",
-  "webDir": "www",
-  "server": {
-    "androidScheme": "https"
-  }
-}
